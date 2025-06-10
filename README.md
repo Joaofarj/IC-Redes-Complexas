@@ -1,5 +1,4 @@
-# Iniciação científica - Algoritmo de Gillespie na simulação de
-modelos epidêmicos markovianos
+# Iniciação científica - Algoritmo de Gillespie na simulação de modelos epidêmicos markovianos
 
 Aluno: João Pedro Farjoun Silva / N° usp: 13731319
 
