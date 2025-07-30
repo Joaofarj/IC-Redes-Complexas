@@ -37,7 +37,9 @@ Simulador estocástico que gera trajetórias possíveis da evolução de um sist
 A taxa crítica define o limiar entre a extinção e a manutenção da doença em uma população. Quando λ > λc, o sistema tende a um estado endêmico.
 
 χ = N * (⟨ρ²⟩ − ⟨ρ⟩²) / ⟨ρ⟩
-Ou 
+
+Ou
+
 χ = N * Var[ρ] / E[ρ]
 
 Onde ρ é a fração de infectados. O valor de λ que maximiza χ é uma estimativa de λc.
